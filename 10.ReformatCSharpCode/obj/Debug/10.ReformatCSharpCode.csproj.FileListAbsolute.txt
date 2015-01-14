@@ -1,0 +1,5 @@
+E:\telerik\C#\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe.config
+E:\telerik\C#\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.exe
+E:\telerik\C#\10.ReformatCSharpCode\bin\Debug\10.ReformatCSharpCode.pdb
+E:\telerik\C#\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.exe
+E:\telerik\C#\10.ReformatCSharpCode\obj\Debug\10.ReformatCSharpCode.pdb

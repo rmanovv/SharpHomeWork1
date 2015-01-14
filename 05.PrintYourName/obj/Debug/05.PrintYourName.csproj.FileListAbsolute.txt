@@ -1,0 +1,5 @@
+E:\telerik\C#\05.PrintYourName\bin\Debug\05.PrintYourName.exe.config
+E:\telerik\C#\05.PrintYourName\bin\Debug\05.PrintYourName.exe
+E:\telerik\C#\05.PrintYourName\bin\Debug\05.PrintYourName.pdb
+E:\telerik\C#\05.PrintYourName\obj\Debug\05.PrintYourName.exe
+E:\telerik\C#\05.PrintYourName\obj\Debug\05.PrintYourName.pdb

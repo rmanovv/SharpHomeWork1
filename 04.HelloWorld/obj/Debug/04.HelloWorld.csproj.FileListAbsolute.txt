@@ -1,0 +1,6 @@
+E:\telerik\C#\04.HelloWorld\bin\Debug\04.HelloWorld.exe.config
+E:\telerik\C#\04.HelloWorld\obj\Debug\04.HelloWorld.csprojResolveAssemblyReference.cache
+E:\telerik\C#\04.HelloWorld\bin\Debug\04.HelloWorld.exe
+E:\telerik\C#\04.HelloWorld\bin\Debug\04.HelloWorld.pdb
+E:\telerik\C#\04.HelloWorld\obj\Debug\04.HelloWorld.exe
+E:\telerik\C#\04.HelloWorld\obj\Debug\04.HelloWorld.pdb

@@ -1,0 +1,5 @@
+E:\telerik\C#\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config
+E:\telerik\C#\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe
+E:\telerik\C#\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.pdb
+E:\telerik\C#\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.exe
+E:\telerik\C#\07.PrintFirstAndLastName\obj\Debug\07.PrintFirstAndLastName.pdb

@@ -1,0 +1,6 @@
+E:\telerik\C#\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe.config
+E:\telerik\C#\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe
+E:\telerik\C#\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.pdb
+E:\telerik\C#\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.csprojResolveAssemblyReference.cache
+E:\telerik\C#\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.exe
+E:\telerik\C#\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.pdb

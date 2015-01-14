@@ -1,0 +1,5 @@
+E:\telerik\C#\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+E:\telerik\C#\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+E:\telerik\C#\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+E:\telerik\C#\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+E:\telerik\C#\08.SquareRoot\obj\Debug\08.SquareRoot.pdb

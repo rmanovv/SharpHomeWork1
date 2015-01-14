@@ -1,0 +1,5 @@
+E:\telerik\C#\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
+E:\telerik\C#\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
+E:\telerik\C#\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
+E:\telerik\C#\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
+E:\telerik\C#\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
